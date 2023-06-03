@@ -1,3 +1,4 @@
+// Single directional linked list
 package linkedlist
 
 import "fmt"
